@@ -1,0 +1,16 @@
+
+{
+  "name": "lab_11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "views/main.html",
+  "window": {
+    "title": "IPZ_ZIEIT",
+    "toolbar": true,
+    "width": 900,
+    "height": 800,
+    "min_width": 900,
+    "min_height": 800,
+    "position": "center"
+  }
+}
